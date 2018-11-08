@@ -1,7 +1,5 @@
 # **** Xmas holidays coming with some time for big updates
 >
-Visual Studio 2017 recently added direct make support so I am finally switching to make files so linux users can directly compile. The compiling background has been quickly documented. Most of the directories are now carrying makefiles as I have relented and started doing it.
->
 # New Work
 So I am starting a series on Task Switchers on Single and Multicores. We are going to start out with the simple standard task switcher (FreeRTOS) on a single core.
 >
@@ -10,7 +8,9 @@ https://github.com/LdB-ECM/Raspberry-Pi/tree/master/FreeRTOS
 ![](https://github.com/LdB-ECM/Docs_and_Images/blob/master/Images/FreeRTOS.jpg?raw=true)
 >
 
-# ** Cross Compiling Details
+# *** Cross Compiling Details
+Visual Studio 2017 recently added direct make support so I am finally switching to make files so linux users can directly compile. The compiling background has been quickly documented. Most of the directories are now carrying makefiles as I have relented and started doing it.
+>
 https://github.com/LdB-ECM/Docs_and_Images/tree/master/Documentation/Code_Background.md
 >
 If you are on Windows and want a windows executable version of GNU make you can get 4.2.1 from
