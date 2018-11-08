@@ -5,7 +5,7 @@ I have been messing around with Task Switchers (Single/Multicore) in 32Bit or 64
 >
 Sorry it's a pretty boring example just moving a couple bars backwards forward, I will try and make some more advanced samples.
 >
-**As per usual you can simply copy the files in the DiskImg directory onto a formatted SD card and place in Pi to test.
+** As per usual you can simply copy the files in the DiskImg directory onto a formatted SD card and place in Pi to test.
 
 To compile edit the makefile so the compiler path matches your compiler:
 >
