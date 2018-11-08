@@ -3,7 +3,7 @@
 Visual Studio 2017 recently added direct make support so I am finally switching to make files so linux users can directly compile. The compiling background has been quickly documented. Most of the directories are now carrying makefiles as I have relented and started doing it.
 >
 # New Work
-So I am starting a series on Task Switchers on Single and Multicores. So we need to start with the simple first a standard task switcher (FreeRTOS) on a single core.
+So I am starting a series on Task Switchers on Single and Multicores. We are going to start out with the simple standard task switcher (FreeRTOS) on a single core.
 >
 https://github.com/LdB-ECM/Raspberry-Pi/tree/master/FreeRTOS
 >
