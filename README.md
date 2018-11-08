@@ -5,7 +5,8 @@ Visual Studio 2017 recently added direct make support so I am finally switching 
 https://github.com/LdB-ECM/Docs_and_Images/tree/master/Documentation/Code_Background.md
 >
 If you are on Windows and want a windows executable version of GNU make you can get 4.2.1 from
- https://sourceforge.net/projects/ezwinports/files/
+>
+https://sourceforge.net/projects/ezwinports/files/
 >
 # BareMetal Raspberry-Pi (Linux free zone .. AKA windows)
 
@@ -19,6 +20,11 @@ If you are on Windows and want a windows executable version of GNU make you can 
 >https://releases.linaro.org/components/toolchain/binaries/latest/aarch64-elf/
 >
 
+# New Work
+So I am starting a series on Task Switchers on Single and Multicores. So we need to start with the simple first a standard task switcher (FreeRTOS) on a single core.
+![](https://github.com/LdB-ECM/Docs_and_Images/blob/master/Images/FreeRTOS.jpg?raw=true)
+
+# Older WorK
 
 # USB (Pi1,2,3 32Bit .. Pi3 AARCH64)
 >https://github.com/LdB-ECM/Raspberry-Pi/tree/master/Arm32_64_USB
