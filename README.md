@@ -1,11 +1,13 @@
-# **** Finally getting time to do the updates
+# **** Xmas holidays coming with some time for big updates
 >
-Visual Studio 2017 recently added direct make support so I am finally switching to make files so linux users can directly compile. The compiling background has been quickly documented. I will try to add in more detail in next few days.
+Visual Studio 2017 recently added direct make support so I am finally switching to make files so linux users can directly compile. The compiling background has been quickly documented. Most of the directories are now carrying makefiles as I have relented from doing it.
 >
 https://github.com/LdB-ECM/Docs_and_Images/tree/master/Documentation/Code_Background.md
 >
-
-# BareMetal Raspberry-Pi (Linux free zone)
+If you are on Windows and want a windows executable version of GNU make you can get 4.2.1 from
+ https://sourceforge.net/projects/ezwinports/files/
+>
+# BareMetal Raspberry-Pi (Linux free zone .. AKA windows)
 
 32 Bit Cross Compiler Toolchain I use (Multiple O/S are supported):
 >https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
@@ -16,8 +18,6 @@ https://github.com/LdB-ECM/Docs_and_Images/tree/master/Documentation/Code_Backgr
 64 Bit Cross Compiler Toolchain I use (Multiple O/S are supported):
 >https://releases.linaro.org/components/toolchain/binaries/latest/aarch64-elf/
 >
-64 Bit compile on the Pi itself:
-> TBD: Still trying to work out a toolchain install
 
 
 # USB (Pi1,2,3 32Bit .. Pi3 AARCH64)
