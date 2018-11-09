@@ -1,7 +1,7 @@
 # **** Xmas holidays coming with some time for big updates
 >
 # New Work
-So I am starting a series on Task Switchers on Single and Multicores. We are going to start out with the simple standard task switcher (FreeRTOS) on a single core. Yeah it's boring but we need to sort out base code stability before we start to fly.
+So I am starting a series on Task Switchers on Single and Multicores. We are going to start out with the simple standard task switcher (a FreeRTOS redux) on a single core. Yeah it's boring but we need to sort out base code stability before we start to fly.
 >
 https://github.com/LdB-ECM/Raspberry-Pi/tree/master/FreeRTOS
 >
