@@ -1,4 +1,4 @@
-# FreeRTOS (Pi 2,3 32Bit .. COMING SOON Pi3 AARCH64)
+# FreeRTOS 10.1.1 (Pi 2,3 32Bit .. COMING SOON Pi3 AARCH64)
 ![](https://github.com/LdB-ECM/Docs_and_Images/blob/master/Images/FreeRTOS.jpg?raw=true)
 >
 Updated to FreeRTOS 10.1.1 however compiling for Pi1 does compile but will not work because I have selected the QA7 core clock which does not exist on the Pi1. So you just get the front screen and then no timer ticks fire so it just sits there lifeless.
